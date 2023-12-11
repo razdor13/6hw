@@ -3,10 +3,10 @@ const numbers = [
     76, -4, 12, -35, 4, 47,
 ];
 
-let positiveNumbers = [];
-let negativeNumbers = [];
-let positiveNumbersEven = [];
-let positiveNumbersNotEven = [];
+const positiveNumbers = [];
+const negativeNumbers = [];
+const positiveNumbersEven = [];
+const positiveNumbersNotEven = [];
 let positiveNumbersSum = 0;
 let productNumbers = 1;
 let bigNumber = 0;
